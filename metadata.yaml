@@ -1,0 +1,33 @@
+_repo: The-Discovery-of-America-Vol.-1--of-2-with-some-account-of-Ancient-America-and-the-Spanish-Co__27253
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fiske, John
+    aliases:
+    - Fisk, John
+    - Green, Edmund Fisk
+    birthdate: 1842
+    deathdate: 1901
+    gutenberg_agent_id: '525'
+    url: http://www.gutenberg.org/2009/agents/525
+    wikipedia: http://en.wikipedia.org/wiki/John_Fiske
+description: ''
+gutenberg_issued: '2008-11-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27253'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E011'
+- !lcsh 'Latin America -- History'
+- !lcsh 'America -- Discovery and exploration'
+title: 'The Discovery of America Vol. 1 (of 2)
+
+  with some account of Ancient America and the Spanish Conquest'
+url: http://www.gutenberg.org/ebooks/27253
